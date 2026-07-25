@@ -38,7 +38,7 @@ src/App.css – Custom styles for the app
 
 Project Structure:
 
-Calculator/
+```Calculator/
 ├── src/
 │   ├── components/
 │   ├── App.jsx
