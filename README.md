@@ -38,14 +38,12 @@ src/App.css – Custom styles for the app
 
 Project Structure:
 
-Plaintext
 Calculator/
 ├── src/
 │   ├── components/
 │   ├── App.jsx
 │   ├── App.css
 │   └── main.jsx
-├── index.html
 ├── package.json
 └── vite.config.js
 
