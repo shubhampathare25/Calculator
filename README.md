@@ -37,15 +37,15 @@ src/App.jsx – Main application logic
 src/App.css – Custom styles for the app
 
 Project Structure:
-
-``Calculator/
+ text```
+Calculator/
 ├── src/
 │   ├── components/
 │   ├── App.jsx
 │   ├── App.css
 │   └── main.jsx
 ├── package.json
-└── vite.config.js``
+└── vite.config.js
 
 Screenshot:
 
