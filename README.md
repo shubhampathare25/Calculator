@@ -36,8 +36,13 @@ src/App.jsx – Main application logic
 
 src/App.css – Custom styles for the app
 
-Project Structure:
- text```
+# Calculator
+
+A modern and responsive calculator web app built with React.
+
+## Project Structure
+
+```text
 Calculator/
 ├── src/
 │   ├── components/
