@@ -36,7 +36,7 @@ src/App.jsx – Main application logic
 
 src/App.css – Custom styles for the app
 
-Project Structure
+Project Structure:
 
 Plaintext
 Calculator/
