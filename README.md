@@ -1,16 +1,20 @@
-# React + Vite
+# Calculator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive calculator web app built with React, featuring a clean UI, smooth button interactions, and basic arithmetic operations.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* **Responsive Design:** Works smoothly on both desktop and mobile screens.
+* **Modern UI:** Clean and stylish user interface.
+* **Basic Operations:** Supports addition, subtraction, multiplication, and division.
+* **Functional Controls:** Includes clear (C) and equals (=) functionality.
+* **Built with React & Vite:** Fast development and high performance.
 
-## React Compiler
+## Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+To run this project locally, follow these steps:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/shubhampathare25/Calculator.git](https://github.com/shubhampathare25/Calculator.git)
+   cd Calculator
