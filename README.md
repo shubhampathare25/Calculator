@@ -17,9 +17,9 @@ A modern, responsive calculator web app built with React, featuring a clean UI, 
 * Fast development environment using Vite
 
 **Teck Stack**
-  React
-  JavaScript
-  CSS3
+ * React
+ * JavaScript
+ * CSS3
 
 ## Getting Started
 
@@ -30,17 +30,17 @@ Follow the steps below to run the project locally.
    git clone https://github.com/shubhampathare25/Calculator.git
    cd Calculator
 
-*Install dependencies*
+**Install dependencies**
 
 ```
 npm install
 ```
-*Run Development Server*
+**Run Development Server**
 
 ```
 npm run dev
 ```
-*Open your browser and visit*
+**Open your browser and visit**
 
  http://localhost:5173 
 
