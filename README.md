@@ -4,58 +4,77 @@ A modern, responsive calculator web app built with React, featuring a clean UI, 
 
 ## Features
 
-* **Responsive Design:** Works smoothly on both desktop and mobile screens.
-* **Modern UI:** Clean and stylish user interface.
-* **Basic Operations:** Supports addition, subtraction, multiplication, and division.
-* **Functional Controls:** Includes clear (C) and equals (=) functionality.
-* **Built with React & Vite:** Fast development and high performance.
+* *Responsive design for desktop and mobile devices
+* *Clean and stylish user interface.
+* *Supports Basic arithmetic Operations:*
+* addition
+* subtraction
+* multiplication
+* Division
+* Clear (C) functionality to reset input
+* Equals (=) functionality to calculate results
+* Component-based architecture using React
+* Fast development environment using Vite
+
+**Teck Stack**
+  React
+  JavaScript
+  CSS3
 
 ## Getting Started
 
-To run this project locally, follow these steps:
+Follow the steps below to run the project locally.
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/shubhampathare25/Calculator.git](https://github.com/shubhampathare25/Calculator.git)
+   ```
+   git clone https://github.com/shubhampathare25/Calculator.git
    cd Calculator
 
-Install dependencies:
+*Install dependencies*
 
 ```
 npm install
 ```
-Start the development server:
+*Run Development Server*
 
 ```
 npm run dev
-Open http://localhost:5173 in your browser to view it.
 ```
+*Open your browser and visit*
 
-Folder Structure
-src/components/ – React components for the calculator UI
-
-src/App.jsx – Main application logic
-
-src/App.css – Custom styles for the app
-
-# Calculator
-
-A modern and responsive calculator web app built with React.
+ http://localhost:5173 
 
 ## Project Structure
 
-```text
-Calculator/
-├── src/
-│   ├── components/
+```
+Calculator
+│
+├── src
+│   ├── components
 │   ├── App.jsx
 │   ├── App.css
 │   └── main.jsx
+│
+├── index.html
 ├── package.json
+├── package-lock.json
 └── vite.config.js
 ```
-# Preview:
+# Learning Outcomes
+  Building reusable components in React
+  Managing application state and user input
+  Implementing responsive layouts
+  Structuring a React project using Vite
+  
+# Preview
 <img width="171" height="301" alt="Screenshot 2026-07-26 002754" src="https://github.com/user-attachments/assets/389ef8c9-3eb5-4282-a65f-c7cbc09e7cb4">
+
+# Future Improvements
+Add keyboard input support
+Implement scientific calculator features
+Improve UI animations
+Add automated testing
+ 
 
    
 
