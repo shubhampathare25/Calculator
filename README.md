@@ -7,13 +7,13 @@ https://calculator-react-91.vercel.app/
 
 ## Features
 
-* *Responsive design for desktop and mobile devices
-* *Clean and stylish user interface.
-* *Supports Basic arithmetic Operations:*
-- addition
-- subtraction
-- multiplication
-- Division
+* Responsive design for desktop and mobile devices
+* Clean and stylish user interface.
+* Supports Basic arithmetic Operations
+* addition
+* subtraction
+* multiplication
+* Division
 * Clear (C) functionality to reset input
 * Equals (=) functionality to calculate results
 * Component-based architecture using React
