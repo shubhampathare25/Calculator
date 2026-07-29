@@ -2,15 +2,18 @@
 
 A modern, responsive calculator web app built with React, featuring a clean UI, smooth button interactions, and basic arithmetic operations.
 
+# Live Demo
+https://calculator-react-91.vercel.app/
+
 ## Features
 
 * *Responsive design for desktop and mobile devices
 * *Clean and stylish user interface.
 * *Supports Basic arithmetic Operations:*
-* addition
-* subtraction
-* multiplication
-* Division
+- addition
+- subtraction
+- multiplication
+- Division
 * Clear (C) functionality to reset input
 * Equals (=) functionality to calculate results
 * Component-based architecture using React
