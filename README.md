@@ -1,6 +1,7 @@
 # Calculator App
 
-A modern, responsive calculator web app built with React, featuring a clean UI, smooth button interactions, and basic arithmetic operations.
+A modern, responsive calculator web app built with React and styled using CSS.
+This project replicates the look and feel of a mobile calculator, featuring a clean UI, smooth button interactions, and basic arithmetic operations.
 
 # Live Demo
 https://calculator-react-91.vercel.app/
