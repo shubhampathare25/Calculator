@@ -108,3 +108,5 @@ http://localhost:5173
 - Implement scientific calculator features
 - Improve UI animations
 - Add automated testing
+
+> > > > > > > adfaa70e8f767d4b8c16152d099236245581f532
