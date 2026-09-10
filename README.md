@@ -41,8 +41,8 @@ Follow the steps below to run the project locally.
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/shubhampathare25/Calculator.git
-   cd Calculator
+ git clone https://github.com/shubhampathare25/Calculator.git
+ cd Calculator
    ```
 
 **Install dependencies**
@@ -65,10 +65,10 @@ http://localhost:5173
 
 ## Project Structure
 
-```
+```text
 ## 📂 Project Structure
 
-```
+```text
 7-calculator-version-2/
 ├── public/
 ├── src/
