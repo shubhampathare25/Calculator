@@ -2,6 +2,7 @@ import Display from "./components/Display";
 import ButtonsContainer from "./components/ButtonsContainer";
 import styles from "./App.module.css";
 import { useState } from "react";
+import Heading from "./components/Heading";
 
 function App() {
   let [calVal, setCalVal] = useState("");
@@ -11,6 +12,8 @@ function App() {
     } else if (buttonText === "=") {
       const result = eval(calVal);
       setCalVal(result);
+    } else if (buttonText === "⌫") {
+      setCalVal(calVal.slice(0, -1));
     } else {
       const newDisplayValue = calVal + buttonText;
       setCalVal(newDisplayValue);
@@ -18,9 +21,12 @@ function App() {
   };
 
   return (
-    <div className={styles.calculator}>
-      <Display displayValue={calVal}></Display>
-      <ButtonsContainer onButtonClick={onButtonClick}></ButtonsContainer>
+    <div className={styles.pageContainer}>
+      <div className={styles.calculator}>
+        <Heading />
+        <Display displayValue={calVal} />
+        <ButtonsContainer onButtonClick={onButtonClick} />
+      </div>
     </div>
   );
 }
