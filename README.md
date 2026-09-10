@@ -65,7 +65,10 @@ http://localhost:5173
 
 ## Project Structure
 
-```text
+```
+## 📂 Project Structure
+
+```
 7-calculator-version-2/
 ├── public/
 ├── src/
@@ -74,7 +77,9 @@ http://localhost:5173
 │   │   ├── ButtonsContainer.jsx
 │   │   ├── ButtonsContainer.module.css
 │   │   ├── Display.jsx
-│   │   └── Display.module.css
+│   │   ├── Display.module.css
+│   │   ├── Heading.jsx
+│   │   └── Heading.module.css
 │   ├── App.jsx
 │   ├── App.module.css
 │   └── main.jsx
@@ -91,7 +96,7 @@ http://localhost:5173
 
 ## Preview
 
-<img width="171" height="301" alt="Screenshot 2026-07-26 002754" src="https://github.com/user-attachments/assets/389ef8c9-3eb5-4282-a65f-c7cbc09e7cb4">
+<img width="936" height="440" alt="Screenshot 2026-09-10 201147" src="https://github.com/user-attachments/assets/dcea0499-a203-4bdf-99b8-093c1b0a59d8" />
 
 ## Learning Outcomes
 
