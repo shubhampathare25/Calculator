@@ -17,7 +17,7 @@ const ButtonsContainer = ({ onButtonClick }) => {
     } else if (buttonName === "=") {
       return `${styles.button} ${styles.equalsButton}`;
     }
-    return styles.button;
+    return `${styles.button} ${styles.numberButton}`;
   };
 
   return (

@@ -45,10 +45,25 @@
   background-color: #dc2626;
 }
 .equalsButton {
-  background-color: #22c55e;
+  background-color: #ce3737;
   color: #ffffff;
-  box-shadow: 0 4px 0 #15803d;
+  box-shadow: 0 4px 0 #e71f90;
 }
 .equalsButton:hover {
-  background-color: #16a34a;
+  background-color: #e51863;
+}
+
+.numberButton {
+  background-color: #334155;
+  color: ffffff;
+  box-shadow: 0 4px 0 #1e293b;
+}
+
+.numberButton:active {
+  box-shadow: 0 2px 0 #1e293b;
+  transform: translateY(2px);
+}
+
+.numberButton:hover {
+  background-color: #475569;
 }
