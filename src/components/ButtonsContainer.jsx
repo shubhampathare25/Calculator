@@ -9,12 +9,23 @@ const ButtonsContainer = ({ onButtonClick }) => {
     "0", ".",
   ];
 
+  const getButtonStyle = (buttonName) => {
+    if (buttonName === "C" || buttonName === "⌫") {
+      return `${styles.button} ${styles.specialButton}`;
+    } else if (["/", "*", "-", "+"].includes(buttonName)) {
+      return `${styles.button} ${styles.operatorButton}`;
+    } else if (buttonName === "=") {
+      return `${styles.button} ${styles.equalsButton}`;
+    }
+    return styles.button;
+  };
+
   return (
     <div className={styles.buttonsContainer}>
       {buttonNames.map((buttonName) => (
         <button
           key={buttonName}
-          className={styles.button}
+          className={getButtonStyle(buttonName)}
           onClick={() => onButtonClick(buttonName)}
         >
           {buttonName}

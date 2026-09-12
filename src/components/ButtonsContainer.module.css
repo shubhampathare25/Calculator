@@ -18,8 +18,37 @@
   background-color: #e5e7eb;
   color: #020617;
   box-shadow: 0 4px 0 #9ca3af;
+  transition: all 0.1s ease;
 }
 
 .button:hover {
   background-color: #d1d5db;
+}
+.button:active {
+  box-shadow: 0 2px 0 #9ca3af;
+  transform: translateY(2px);
+}
+.operatorButton {
+  background-color: #f97316;
+  color: #ffffff;
+  box-shadow: 0 4px 0 #c2410c;
+}
+.operatorButton:hover {
+  background-color: #ea580c;
+}
+.specialButton {
+  background-color: #ef4444;
+  color: #ffffff;
+  box-shadow: 0 4px 0 #b91c1c;
+}
+.specialButton:hover {
+  background-color: #dc2626;
+}
+.equalsButton {
+  background-color: #22c55e;
+  color: #ffffff;
+  box-shadow: 0 4px 0 #15803d;
+}
+.equalsButton:hover {
+  background-color: #16a34a;
 }
