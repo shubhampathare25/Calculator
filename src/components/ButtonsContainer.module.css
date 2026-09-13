@@ -54,13 +54,13 @@
 }
 
 .numberButton {
-  background-color: #334155;
+  background-color: #e8e9eb;
   color: ffffff;
-  box-shadow: 0 4px 0 #1e293b;
+  box-shadow: 0 4px 0 #e8e9eb;
 }
 
 .numberButton:active {
-  box-shadow: 0 2px 0 #1e293b;
+  box-shadow: 0 2px 0 #e8e9eb;
   transform: translateY(2px);
 }
 
