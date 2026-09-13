@@ -96,7 +96,7 @@ http://localhost:5173
 
 ## Preview
 
-<img width="936" height="440" alt="Screenshot 2026-09-10 201147" src="https://github.com/user-attachments/assets/dcea0499-a203-4bdf-99b8-093c1b0a59d8" />
+<img width="931" height="434" alt="Screenshot 2026-09-13 185837" src="https://github.com/user-attachments/assets/2f1150f5-a48f-4e12-b101-8d2d5ecf86a4" />
 
 ## Learning Outcomes
 
