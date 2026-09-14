@@ -54,7 +54,7 @@
 }
 
 .numberButton {
-  background-color: #e8e9eb;
+  background-color: #e1e6f0;
   color: ffffff;
   box-shadow: 0 4px 0 #e8e9eb;
 }
@@ -65,5 +65,5 @@
 }
 
 .numberButton:hover {
-  background-color: #475569;
+  background-color: #6d7a8d;
 }
